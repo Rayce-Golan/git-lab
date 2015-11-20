@@ -13,3 +13,7 @@ int main(){
 	
 }
 
+int add(int a, int b)
+{
+	cout << a+b << endl;
+}
