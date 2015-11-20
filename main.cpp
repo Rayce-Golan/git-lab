@@ -13,7 +13,13 @@ int main(){
 	
 }
 
+
 int add(int a, int b)
 {
-	cout << a+b << endl;
+	return (a + b);
 }
+
+int subtract(int a, int b){
+  return (a - b);
+}
+
